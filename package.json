@@ -1,0 +1,13 @@
+{
+  "name": "desafio_always_ready",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "David Pérez",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pg": "^8.11.5"
+  }
+}
